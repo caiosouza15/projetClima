@@ -1,5 +1,5 @@
 # Projeto Clima
-Aqui chegamos a um outro nivel de programação. Aqui de fato começamos a brincar com coisas grandes e particulamente bastantes legais. Esse projeto usa codigos asincronos para trazer a você infomrações de clima de qualquer lugar do mundo!
+Aqui chegamos a um outro nivel de programação. Aqui de fato começamos a brincar com coisas grandes e particulamente bastantes legais. Esse projeto usa codigos assincronos para trazer a você infomrações de clima de qualquer lugar do mundo!
 A utilização da API do openweather trás essa iteração e com bastante disponibilidade gratuita para usar e abusar nos projetos!
 
 ## 🛠️ Construído com
